@@ -1,0 +1,7 @@
+Notes: What's that Critter?
+4/2/28:
+	*I am leaning towards using MXNet for CritterClassifier.
+	Will use MXNet for CritterClassifier.
+	I would like to use PHP to develop the Critterserver.
+	MySQL for CritterData?
+	
