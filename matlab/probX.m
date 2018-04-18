@@ -2,7 +2,7 @@
 %failures. Failures may occur for any number of reasons. Examples include 
 %weather related events, age related failure, distance from urban centers 
 %and geographical features. ProbX calculates the probability of 
-% of s users losing power over network k, with probability ofnode r failure r.
+% of s users losing power over network k, with probability of failure of node r within network k.
 
 
 function [ P ] = probX( s, r, k )
